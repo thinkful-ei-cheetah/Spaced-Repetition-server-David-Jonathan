@@ -1,5 +1,7 @@
 # Spaced repetition API!
 
+## Made with love by David Nordeen and Jonathan Lassen
+
 ## Local dev setup
 
 If using user `dunder-mifflin`:
